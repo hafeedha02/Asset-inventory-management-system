@@ -142,7 +142,7 @@ Example:
 Python Full Stack Developer
 
 - GitHub: https://github.com/hafeedha02
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BIpq8Kv5jQOGQNVkROsgj7Q%3D%3D
 
 ---
 
